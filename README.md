@@ -1,5 +1,5 @@
 <h1 align="center"> 👋Thank you for visiting My GitHub</h1>
-<h3 align="center">Hello, I'm Woo Eun-sik, the frontend of Hanbat University, likelion🦁</h3>
+<h3 align="center">Hello, I'm Woo Eun-sik, the frontend of Hanbat University, likelion 13th generation🦁</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apkool12&label=Profile%20views&color=0e75b6&style=flat" alt="apkool12" /> </p>
 
